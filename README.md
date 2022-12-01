@@ -1,1 +1,2 @@
 # Odin-recipes
+This project is meant to solidfy the HTML language and the Github workflow. By the end of this project I will have demonstrated a solid understanding of the basics of the HTML programming language and of the GitHub workflow. Thanks!
